@@ -2,7 +2,17 @@
 
 一个轻量、无构建依赖的网页 AI 聊天应用。在浏览器中打开即可使用，通过你自己的 **OpenAI 兼容 Chat Completions API**（自带 API Key）进行对话。已针对 **iPad Safari** 优化，支持「添加到主屏幕」。
 
-## 快速开始
+## 在线打开（iPad 推荐）
+
+公网 HTTPS（GitHub Pages）：
+
+**https://donghy8888.github.io/ai-chat/**
+
+用 iPad Safari 打开上述地址后，即可「添加到主屏幕」。API Key 仍只保存在你自己的浏览器里。
+
+仓库：https://github.com/donghy8888/ai-chat
+
+## 快速开始（本地）
 
 在本目录启动任意静态文件服务器，例如：
 
