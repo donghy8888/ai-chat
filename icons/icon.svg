@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AI 聊天">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6c8cff"/>
+      <stop offset="100%" stop-color="#3d5afe"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#0f1115"/>
+  <rect x="48" y="48" width="416" height="416" rx="96" fill="url(#g)"/>
+  <path fill="#ffffff" d="M156 168c0-22 18-40 40-40h120c22 0 40 18 40 40v100c0 22-18 40-40 40H236l-44 44v-44h-36c-22 0-40-18-40-40V168z"/>
+  <circle cx="220" cy="218" r="16" fill="#3d5afe"/>
+  <circle cx="268" cy="218" r="16" fill="#3d5afe"/>
+  <circle cx="316" cy="218" r="16" fill="#3d5afe"/>
+</svg>
